@@ -40,7 +40,7 @@ public class Point2D
   // Additional methods
   public String toString()
   {
-    return "(" + x = ", " + y + ")";
+    return "(" + x + ", " + y + ")";
   }
 
   // Returns the distance from the origin to this point

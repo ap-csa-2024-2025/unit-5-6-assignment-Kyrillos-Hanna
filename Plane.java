@@ -1,4 +1,4 @@
 public class Plane
 {
-  // implement the Plane class here
+  private int location = 0;
 }
